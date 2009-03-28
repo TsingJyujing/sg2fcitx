@@ -1,1 +1,9 @@
 =从源码安装sg2fcitx=
+
+$ svn checkout http://sg2fcitx.googlecode.com/svn/trunk/ sg2fcitx-read-only
+
+$ cd sg2fcitx-read-only
+
+$ make
+
+$ sudo make install
