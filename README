@@ -1,0 +1,7 @@
+This is just for fun!
+
+Useage:
+sg2fcitx sougouCellStock.txt > fcitxStyle.txt
+
+中文:
+sg2fcitx 搜狗细胞词库.txt > fcitx式的文件.txt
